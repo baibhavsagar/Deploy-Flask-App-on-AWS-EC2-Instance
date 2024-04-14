@@ -7,19 +7,29 @@
 3. ⚙️ [Tech Stack](#tech-stack)
 4. 📂 [Folder Structure](#folder-structure)
 5. 🧰 [Getting Started](#getting-started)
-7. ⭐ [Give A Star](#give-a-star)
-8. 🚀 [Follow Me](#follow-me)
-9. 📚 [Learn More](#learn-more)
+9. 📷 [Screenshots](#screenshots)
+10. 🖨️ [Deploy on Infiniy Free ](#deploy-on-infinity-free)
+11. ⭐ [Give A Star](#give-a-star)
+11. 🚀 [Follow Me](#follow-me)
+13. 📚 [Learn More](#learn-more)
+14. 
+
+## 📋 <a name="introduction">Introduction</a>
 
 ## 🤖 Introduction
 
+
 In this tutorial, we'll guide you through the process of deploying a Flask web application on an AWS EC2 instance. Flask is a lightweight web application framework written in Python, and AWS EC2 (Elastic Compute Cloud) provides scalable computing capacity in the cloud.
+## 📋 <a name="features">Features</a>
 
 ## 🔋 Features
 
 - Deploy a Flask web application on AWS EC2.
 - Use Gunicorn as the WSGI server.
 - Configure Nginx as a reverse proxy.
+
+
+## 📋 <a name="table">Table of Contents</a>
 
 ## ⚙️ Tech Stack
 
@@ -29,11 +39,15 @@ In this tutorial, we'll guide you through the process of deploying a Flask web a
 - Gunicorn
 - Nginx
 
+## 📋 <a name="table">Table of Contents</a>
+
 ## 📂 Folder Structure
 
 - **helloworld/**
   - **venv/**
   - **app.py**
+ 
+ ## 📋 <a name="table">Table of Contents</a>
 
 ## 🧰 Getting Started
 
@@ -232,17 +246,71 @@ Now, your Flask application should be accessible via your EC2 instance's public 
 Congratulations! You have successfully deployed a Flask web application on an AWS EC2 instance using Gunicorn and Nginx as a reverse proxy.
 
 
-
+## 📋 <a name="table">Table of Contents</a>
 ## ⭐ Give A Star
 
-If you find this project helpful, please consider giving it a star.
+You can also give this repository a star to show more people and they can use this repository.
 
+## 📋 <a name="table">Table of Contents</a>
 ## 🚀 Follow Me
 
-Follow me on [GitHub](https://github.com/yourusername) for more projects like this.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://github.com/baibhavsagar "Instagram")
 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baibhavsagar "Instagram")
+
+[![Follow Me](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baibhavsagar "Linked In")
+
+## 📋 <a name="table">Table of Contents</a>
 ## 📚 Learn More
+Of course! Here are the resources with descriptions and direct links:
 
-For more tutorials and guides, visit [my blog](https://yourblog.com).
-```
+**Python:**
+1. **Official Python Documentation**: The Python Software Foundation maintains comprehensive documentation covering all aspects of Python, from beginner to advanced topics.
+   - [Documentation Link](https://www.python.org/doc/)
+
+2. **Python Crash Course by Eric Matthes**: This book is great for beginners who want to get started with Python programming. It covers the basics of Python syntax and also delves into more advanced topics.
+   - [Book Link](https://nostarch.com/pythoncrashcourse2e)
+
+3. **Automate the Boring Stuff with Python by Al Sweigart**: Perfect for those interested in automating tasks using Python, this book covers practical Python programming for total beginners.
+   - [Book Link](https://automatetheboringstuff.com/)
+
+**Flask:**
+1. **Flask Documentation**: The official Flask documentation is an excellent resource for learning Flask. It covers everything from installation to advanced topics like Blueprints and Extensions.
+   - [Documentation Link](https://flask.palletsprojects.com/en/2.1.x/)
+
+2. **Flask Web Development by Miguel Grinberg**: This book provides a comprehensive guide to building web applications with Flask. It covers everything from basic concepts to more advanced topics like deployment and testing.
+   - [Book Link](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739)
+
+3. **Flask Mega-Tutorial by Miguel Grinberg**: This online tutorial series covers building a full-featured web application with Flask, step by step. It's a great resource for hands-on learning.
+   - [Tutorial Link](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+**AWS EC2:**
+1. **AWS Documentation - EC2**: The official AWS documentation provides comprehensive guides and tutorials for using EC2 instances, covering everything from launching instances to managing security and scalability.
+   - [Documentation Link](https://docs.aws.amazon.com/ec2/index.html)
+
+2. **AWS Certified Solutions Architect - Associate Certification Guide**: This guide covers all the topics you need to know to become certified in AWS, including EC2 instances.
+   - [Book Link](https://www.amazon.com/Certified-Solutions-Architect-Associate-All/dp/1119138558)
+
+3. **AWS in Action by Andreas Wittig and Michael Wittig**: This book provides practical examples and insights into using various AWS services, including EC2.
+   - [Book Link](https://www.amazon.com/AWS-Action-Andreas-Wittig/dp/1617295116)
+
+**Gunicorn:**
+1. **Gunicorn Documentation**: The official Gunicorn documentation provides information on installing, configuring, and using Gunicorn as a WSGI server for Python web applications.
+   - [Documentation Link](https://docs.gunicorn.org/en/stable/)
+
+2. **Deploying Django by Kenneth Love**: While focusing on Django, this book includes a chapter on deploying Django applications with Gunicorn, useful for understanding its usage in real-world scenarios.
+   - [Book Link](https://www.amazon.com/Deploying-Django-Kenneth-Love/dp/1680505316)
+
+3. **Real Python Tutorials**: Real Python offers tutorials on various Python-related topics, including deploying web applications with Gunicorn.
+   - [Tutorial Link](https://realpython.com/)
+
+**Nginx:**
+1. **Nginx Documentation**: The official Nginx documentation provides detailed information on installing, configuring, and using Nginx as a web server and reverse proxy.
+   - [Documentation Link](https://nginx.org/en/docs/)
+
+2. **Nginx Essentials by Valery Kholodkov**: This book covers the essentials of Nginx configuration and usage, making it a good resource for beginners.
+   - [Book Link](https://www.amazon.com/Nginx-Essentials-Valery-Kholodkov/dp/0985193208)
+
+3. **DigitalOcean Tutorials**: DigitalOcean offers numerous tutorials on web development and server administration topics, including configuring Nginx.
+   - [Tutorial Link](https://www.digitalocean.com/community/tutorials)
 
