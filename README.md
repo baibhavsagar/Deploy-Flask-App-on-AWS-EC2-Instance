@@ -1,7 +1,43 @@
-# Deploy-Flask-App-on-AWS-EC2-Instance
+# Deploy Flask App on AWS EC2 Instance
+
+## Table of Contents
+
+1. 🤖 [Introduction](#introduction)
+2. 🔋 [Features](#features)
+3. ⚙️ [Tech Stack](#tech-stack)
+4. 📂 [Folder Structure](#folder-structure)
+5. 🧰 [Getting Started](#getting-started)
+7. ⭐ [Give A Star](#give-a-star)
+8. 🚀 [Follow Me](#follow-me)
+9. 📚 [Learn More](#learn-more)
+
+## 🤖 Introduction
+
 In this tutorial, we'll guide you through the process of deploying a Flask web application on an AWS EC2 instance. Flask is a lightweight web application framework written in Python, and AWS EC2 (Elastic Compute Cloud) provides scalable computing capacity in the cloud.
 
-## **Prerequisites**
+## 🔋 Features
+
+- Deploy a Flask web application on AWS EC2.
+- Use Gunicorn as the WSGI server.
+- Configure Nginx as a reverse proxy.
+
+## ⚙️ Tech Stack
+
+- Python
+- Flask
+- AWS EC2
+- Gunicorn
+- Nginx
+
+## 📂 Folder Structure
+
+- **helloworld/**
+  - **venv/**
+  - **app.py**
+
+## 🧰 Getting Started
+
+### Prerequisites
 
 - An AWS account
 - Basic knowledge of Python and Flask
@@ -14,7 +50,7 @@ In this tutorial, we'll guide you through the process of deploying a Flask web a
 First, SSH into your EC2 instance and update the package list:
 
 ```bash
-sudo apt-get update
+sudo apt-get update && sudo apt-get upgrade
 ```
 
 Then, install the Python virtual environment package:
@@ -194,3 +230,19 @@ sudo systemctl restart nginx
 Now, your Flask application should be accessible via your EC2 instance's public IP address.
 
 Congratulations! You have successfully deployed a Flask web application on an AWS EC2 instance using Gunicorn and Nginx as a reverse proxy.
+
+
+
+## ⭐ Give A Star
+
+If you find this project helpful, please consider giving it a star.
+
+## 🚀 Follow Me
+
+Follow me on [GitHub](https://github.com/yourusername) for more projects like this.
+
+## 📚 Learn More
+
+For more tutorials and guides, visit [my blog](https://yourblog.com).
+```
+
