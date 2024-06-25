@@ -6,12 +6,10 @@
 2. 🔋 [Features](#features)
 3. ⚙️ [Tech Stack](#tech-stack)
 4. 📂 [Folder Structure](#folder-structure)
-5. 🧰 [Getting Started](#getting-started)
-9. 📷 [Screenshots](#screenshots)
-10. 🖨️ [Deploy on Infiniy Free ](#deploy-on-infinity-free)
-11. ⭐ [Give A Star](#give-a-star)
-11. 🚀 [Follow Me](#follow-me)
-13. 📚 [Learn More](#learn-more)
+5. 🧰 [Prerequisites](#prerequisites)
+6. ⭐ [Give A Star](#give-a-star)
+7. 🚀 [Follow Me](#follow-me)
+8. 📚 [Learn More](#learn-more)
 
 
 ## 🤖 <a name="introduction">Introduction</a>
