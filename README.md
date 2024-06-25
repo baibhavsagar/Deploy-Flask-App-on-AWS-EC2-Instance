@@ -12,26 +12,21 @@
 11. ⭐ [Give A Star](#give-a-star)
 11. 🚀 [Follow Me](#follow-me)
 13. 📚 [Learn More](#learn-more)
-14. 
 
-## 📋 <a name="introduction">Introduction</a>
 
-## 🤖 Introduction
+## 🤖 <a name="introduction">Introduction</a>
 
 
 In this tutorial, we'll guide you through the process of deploying a Flask web application on an AWS EC2 instance. Flask is a lightweight web application framework written in Python, and AWS EC2 (Elastic Compute Cloud) provides scalable computing capacity in the cloud.
-## 📋 <a name="features">Features</a>
 
-## 🔋 Features
+## 🔋  <a name="features">Features</a>
 
 - Deploy a Flask web application on AWS EC2.
 - Use Gunicorn as the WSGI server.
 - Configure Nginx as a reverse proxy.
 
 
-## 📋 <a name="table">Table of Contents</a>
-
-## ⚙️ Tech Stack
+## ⚙️ <a name="tech-stack">Tech Stacks</a>
 
 - Python
 - Flask
@@ -39,9 +34,8 @@ In this tutorial, we'll guide you through the process of deploying a Flask web a
 - Gunicorn
 - Nginx
 
-## 📋 <a name="table">Table of Contents</a>
 
-## 📂 Folder Structure
+## 📂 <a name="table">Folder Structure</a>
 
 - **helloworld/**
   - **venv/**
