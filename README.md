@@ -41,11 +41,8 @@ In this tutorial, we'll guide you through the process of deploying a Flask web a
   - **venv/**
   - **app.py**
  
- ## 📋 <a name="table">Table of Contents</a>
 
-## 🧰 Getting Started
-
-### Prerequisites
+## 🧰 <a name="prerequisites">Prerequisites</a>
 
 - An AWS account
 - Basic knowledge of Python and Flask
@@ -240,13 +237,11 @@ Now, your Flask application should be accessible via your EC2 instance's public 
 Congratulations! You have successfully deployed a Flask web application on an AWS EC2 instance using Gunicorn and Nginx as a reverse proxy.
 
 
-## 📋 <a name="table">Table of Contents</a>
-## ⭐ Give A Star
+## ⭐ <a name="give-a-star">Give A Star</a>
 
 You can also give this repository a star to show more people and they can use this repository.
 
-## 📋 <a name="table">Table of Contents</a>
-## 🚀 Follow Me
+## 🚀 <a name="follow-me">Follow Me</a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://github.com/baibhavsagar "Instagram")
 
@@ -254,8 +249,7 @@ You can also give this repository a star to show more people and they can use th
 
 [![Follow Me](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baibhavsagar "Linked In")
 
-## 📋 <a name="table">Table of Contents</a>
-## 📚 Learn More
+## 📚 <a name="learn-more">Learn More</a>
 Of course! Here are the resources with descriptions and direct links:
 
 **Python:**
